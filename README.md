@@ -48,7 +48,7 @@
                                     
                                 }).show();
 
- ![Ring-menu](https://github.com/linwh8/ModernWebPrograming/raw/master/My_image/ring_menu.png)
+ ![Ring-menu](https://github.com/zhihaoliang/Sheetdialog/blob/master/Screenshot_2019-01-29-14-47-38.png)
 
 
         
