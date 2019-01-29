@@ -24,7 +24,7 @@
   
   3.结果展示
   
-   new ActionSheetDialog(MainActivity.this)
+   1> new ActionSheetDialog(MainActivity.this)
    
                         .builder()
                         
@@ -47,5 +47,9 @@
                                     }
                                     
                                 }).show();
+
+  ![avatar]（https://github.com/zhihaoliang/Sheetdialog/blob/master/Screenshot_2019-01-29-14-47-38.png）
+
+
         
                                 
