@@ -48,7 +48,7 @@
                                     
                                 }).show();
 
-  ![avatar]（https://github.com/zhihaoliang/Sheetdialog/blob/master/Screenshot_2019-01-29-14-47-38.png）
+（https://github.com/zhihaoliang/Sheetdialog/blob/master/Screenshot_2019-01-29-14-47-38.png）
 
 
         
