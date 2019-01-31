@@ -18,7 +18,7 @@
   
   dependencies {
   
-	        implementation 'com.github.zhihaoliang:Sheetdialog:Tag'
+	        implementation 'com.github.zhihaoliang:Sheetdialog:v1.0'
           
 	}
   
